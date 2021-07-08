@@ -12,3 +12,7 @@ Long story in short, we want to see best practices of react.
 
 Design you expected to mock is in link below.
 https://dribbble.com/shots/14047051-HealthMe-Dashboard/attachments/5665385?mode=media
+
+
+Notes:
+You are free to use open source icons, design images etc.
