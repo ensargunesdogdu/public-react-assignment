@@ -1,6 +1,6 @@
 # public-react-assignment
 
-# In this assignment you need to create a view from a screenshot. 
+# In this assignment you need to create a view from a screenshot
 We don't expect the end result as a working prototype but what we will check is below.
 
 1. Your coding style
